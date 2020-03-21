@@ -1,0 +1,14 @@
+body
+{background-image:url(
+assets1/choco2.jpg);
+    opacity: 0.9;
+    background-repeat:no-repeat;
+    image-align:right;
+    text-align: left;
+    font-family:monospace;
+    color: azure;
+    font-size: 22px;
+}
+#class a{
+    align-content: flex-end;
+}

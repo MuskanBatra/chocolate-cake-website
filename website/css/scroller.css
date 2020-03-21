@@ -1,0 +1,121 @@
+/*Default setting,its value isn't changed.*/
+.JWSSothinkBgC{background-color:transparent;}
+
+/*Global setting.    It: item    G:global*/
+.JWSItBS{border-style:outset;}
+.JWSItBW{border-width:3px;}
+.JWSItBC{border-color:#454545;}
+.JWSGBgC{background-color:#FFFFFF;}
+.JWSGBgI{background-image:none;}
+.JWSGBgR{background-repeat:repeat;}
+
+
+/*Arrow setting.    Lt: left or top     Rb: right or bottom     E: enable    D:disable
+  Ot: mouse out     Ov: mouse over     I: image */
+.JWSLtEOt{background-image:url("../images/arrowl_out.gif");}
+.JWSLtEOv{background-image:url("../images/arrowl_over.gif");}
+.JWSLtD{background-image:url("../images/arrowl_gray.gif");}
+.JWSLtIW{width:13px;}
+.JWSLtIH{height:13px;}
+
+.JWSRbEOt{background-image:url("../images/arrowr_out.gif");}
+.JWSRbEOv{background-image:url("../images/arrowr_over.gif");}
+.JWSRbD{background-image:url("../images/arrowr_gray.gif");}
+.JWSRbIW{width:13px;}
+.JWSRbIH{height:13px;}
+
+
+/*Global border setting      G:Global border  Sz::size    Cn: corner    Lt: left top
+  Rb: right bottom   Lb: left bottom  Rt: right top  T: top    Bt: bottom   L:left   Ri: right */
+.JWSGBS{border-style:solid;}
+.JWSGBW{border-width:1px;}
+.JWSGBC{border-color:#000000;}
+
+.JWSGCnSz{width:10px;height:10px;}
+
+.JWSGLtCn{background-image:url("../images/border05_tl.gif");}
+.JWSGRtCn{background-image:url("../images/border05_tr.gif");}
+.JWSGRbCn{background-image:url("../images/border05_br.gif");}
+.JWSGLbCn{background-image:url("../images/border05_bl.gif");}
+
+.JWSGTBgC{background-color:transparent;}
+.JWSGTBgI{background-image:url("../images/border05_t.gif");}
+.JWSGTBgR{background-repeat:repeat;}
+
+.JWSGRiBgC{background-color:transparent;}
+.JWSGRiBgI{background-image:url("../images/border05_r.gif");}
+.JWSGRiBgR{background-repeat:repeat;}
+
+.JWSGBtBgC{background-color:transparent;}
+.JWSGBtBgI{background-image:url("../images/border05_b.gif");}
+.JWSGBtBgR{background-repeat:repeat;}
+
+.JWSGLBgC{background-color:transparent;}
+.JWSGLBgI{background-image:url("../images/border05_l.gif");}
+.JWSGLBgR{background-repeat:repeat;}
+
+
+/*Item  or  item tip setting.   Ot: mouse out   Ov: mouse over    It:item     F: font    Tp: tip  i:item */
+
+/*Item 0 */
+.JWSItBgCi0{background-color:#FFFFFF;}
+.JWSOtFi0{font:italic bold 14pt Times New Roman,Times,serif;}
+.JWSOtFCi0{color:#996699;}
+.JWSOtFDi0{text-decoration:underline;}
+.JWSOvFi0{font:italic bold 14pt Times New Roman,Times,serif;}
+.JWSOvFCi0{color:#996699;}
+.JWSOvFDi0{text-decoration:underline;}
+
+/*Item 1 */
+.JWSItBgCi1{background-color:#FFFFFF;}
+.JWSOtFi1{font:italic bold 14pt Times New Roman,Times,serif;}
+.JWSOtFCi1{color:#996699;}
+.JWSOtFDi1{text-decoration:underline;}
+.JWSOvFi1{font:italic bold 14pt Times New Roman,Times,serif;}
+.JWSOvFCi1{color:#996699;}
+.JWSOvFDi1{text-decoration:underline;}
+
+/*Item 2 */
+.JWSItBgCi2{background-color:#FFFFFF;}
+.JWSOtFi2{font:italic bold 14pt Times New Roman,Times,serif;}
+.JWSOtFCi2{color:#996699;}
+.JWSOtFDi2{text-decoration:underline;}
+.JWSOvFi2{font:italic bold 14pt Times New Roman,Times,serif;}
+.JWSOvFCi2{color:#996699;}
+.JWSOvFDi2{text-decoration:underline;}
+
+/*Item 3 */
+.JWSItBgCi3{background-color:#FFFFFF;}
+.JWSOtFi3{font:italic bold 14pt Times New Roman,Times,serif;}
+.JWSOtFCi3{color:#996699;}
+.JWSOtFDi3{text-decoration:underline;}
+.JWSOvFi3{font:italic bold 14pt Times New Roman,Times,serif;}
+.JWSOvFCi3{color:#996699;}
+.JWSOvFDi3{text-decoration:underline;}
+
+/*Item 4 */
+.JWSItBgCi4{background-color:transparent;}
+.JWSOtFi4{font:9pt Verdana,Arial;}
+.JWSOtFCi4{color:#000000;}
+.JWSOtFDi4{text-decoration:none;}
+.JWSOvFi4{font:9pt Verdana,Arial;}
+.JWSOvFCi4{color:#000000;}
+.JWSOvFDi4{text-decoration:none;}
+
+/*Item 5 */
+.JWSItBgCi5{background-color:transparent;}
+.JWSOtFi5{font:9pt Verdana,Arial;}
+.JWSOtFCi5{color:#000000;}
+.JWSOtFDi5{text-decoration:none;}
+.JWSOvFi5{font:9pt Verdana,Arial;}
+.JWSOvFCi5{color:#000000;}
+.JWSOvFDi5{text-decoration:none;}
+
+/*Item 6 */
+.JWSItBgCi6{background-color:transparent;}
+.JWSOtFi6{font:9pt Verdana,Arial;}
+.JWSOtFCi6{color:#000000;}
+.JWSOtFDi6{text-decoration:none;}
+.JWSOvFi6{font:9pt Verdana,Arial;}
+.JWSOvFCi6{color:#000000;}
+.JWSOvFDi6{text-decoration:none;}

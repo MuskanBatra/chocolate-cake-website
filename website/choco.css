@@ -1,0 +1,59 @@
+body
+{background-image:url(
+assets1/choco2.jpg);
+    background-size: cover;
+    opacity: 0.9;
+    background-repeat:no-repeat;
+    image-align:center;
+}
+#BaseContainer
+{
+font-family: "Bookman", Georgia, "Times New Roman", serif;
+    width:1500px;
+    margin:right;
+}
+#Header
+{
+    height:70px;
+    font-size:90px;
+    text-align:right;
+}
+#Menu
+{
+    height:70px;
+    font-size:35px;
+    text-align:center;
+}
+#Menu a
+{
+    color:white;
+    text-decoration:none;
+    padding:40px;
+
+}
+#Menu a:hover
+{
+    color:yellow;
+    text-decoration:none;
+    padding:40px;
+    font-size:50px;
+}
+ h2{
+     font-family: "Times New Roman", Times, serif;
+     color: white;
+     text-align: center;
+     font-size:35px;
+ }
+h3{
+    font-family: serif;
+    font-size:30px;
+    color: antiquewhite;
+    text-align: right;
+}
+#Pages a{
+    color: white;
+   height:30px;
+    font-size:30px;
+    text-align:right;
+}
+     }

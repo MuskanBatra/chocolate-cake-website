@@ -1,0 +1,11 @@
+sts_bs("JWS",[20080623,"images/","","blank.gif",0,1,1,3,"60%","left",5,3,200,150,0,0,1,0,0,2000,1,30,0,"stEffect(\"scroll(Rate=24,enabled=0,Duration=0.50)\")",-2,60],["ItBS","ItBW","ItBC","GBgC","GBgI","GBgR"]);
+sts_sca(["center","middle","center","middle"],["LtEOt","LtEOv","LtD","LtIW","LtIH","RbEOt","RbEOv","RbD","RbIW","RbIH"]);
+sts_sbd([1],["GBS","GBW","GBC","GCnSz","GLtCn","GRtCn","GRbCn","GLbCn","GTBgC","GTBgI","GTBgR","GRiBgC","GRiBgI","GRiBgR","GBtBgC","GBtBgI","GBtBgR","GLBgC","GLBgI","GLBgR"]);
+sts_ai("i0",[0,"","","_self","images%20%286%29.jpg",200,112,"center"],["ItBgC","OtF","OtFC","OtFD","OvF","OvFC","OvFD"],"i0","i0");
+sts_ai("i1",[,,,,"download.jpg",,133],[],"i0","i0");
+sts_ai("i2",[,,,,"images%20%285%29.jpg",183,150],[],"i0","i0");
+sts_ai("i3",[,,,,"The-Ultimate-Peanut-Butter-Cup-Chocolate-Cake-0469.jpg",99],[],"i2","i0");
+sts_ai("i4",[,,,,"images%20%289%29.jpg",191],[],"i2","i0");
+sts_ai("i5",[,,,,"images%20%2810%29.jpg"],[],"i4","i0");
+sts_ai("i6",[,,,,"download%20%282%29.jpg",,149],[],"i0","i0");
+sts_es();
